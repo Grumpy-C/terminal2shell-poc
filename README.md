@@ -1,6 +1,8 @@
 # Terminal2Shell Proof of Concept
 WARNING: THIS WILL OPEN SHELL ON YOUR COMPUTER!!! BE WARNED!!!
-terminal2shell.com
+
+## Website
+[terminal2shell.com]
 
 # Usage
 Run `python3 open_shell.py` or `py open_shell.py` (on some systems like my terrible windows 11 laptop)
